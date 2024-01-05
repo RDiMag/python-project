@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/RDiMag/python-project/actions/workflows/devops.yml/badge.svg)](https://github.com/RDiMag/python-project/actions/workflows/devops.yml)
+
 ##Scaffold
 
 Makefile
