@@ -16,4 +16,5 @@ Steps to run:
 2. Create empty files: 'Dockerfile", "main.py", "Makefile", "README.md", "requirements.txt", and ".gitignore".
    'touch filename.ext'
 3. Create Python init file. 'mkdir mylib', 'touch mylib/**init**.py'
-4. Populate files.
+4. Populate files to set up Continuous Ingegration (including chacking for lint errors).
+5. Build a command line tool using the Pyton Fire library. Use './cli-fire.py --help' to test logic.
