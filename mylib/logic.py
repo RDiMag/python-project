@@ -19,5 +19,5 @@ def phrase(name):
     """Returns phrases from Wikipedia."""
 
     page = wiki(name)
-    blob = TextBlob(text)
-    return blog.noun_phrases
+    blob = TextBlob(page)
+    return blob.noun_phrases
